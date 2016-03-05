@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./statutacomunisb00sellgoog_0019.png"; bbox 0 0 3978 5546; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 633 767 1183 952">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 633 767 1183 952">
+     <span class='ocr_line' id='line_1_1' title="bbox 633 767 1183 952; baseline -0.024 -13"><span class='ocrx_word' id='word_1_1' title='bbox 633 767 642 781; x_wconf 73' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 721 781 1101 952; x_wconf 63' lang='lat' dir='ltr'>Imm!</span> <span class='ocrx_word' id='word_1_3' title='bbox 1174 855 1183 870; x_wconf 91' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 629 1149 1134 1478">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 629 1149 1134 1478">
+     <span class='ocr_line' id='line_1_2' title="bbox 629 1149 1125 1213; baseline 0.002 -10"><span class='ocrx_word' id='word_1_4' title='bbox 629 1151 717 1204; x_wconf 65' lang='lat' dir='ltr'>Ha·⁸</span> <span class='ocrx_word' id='word_1_5' title='bbox 754 1149 791 1200; x_wconf 60' lang='lat' dir='ltr'>‘vi</span> <span class='ocrx_word' id='word_1_6' title='bbox 814 1150 833 1202; x_wconf 65' lang='lat' dir='ltr'>f.</span> <span class='ocrx_word' id='word_1_7' title='bbox 866 1196 870 1202; x_wconf 90' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 912 1167 951 1203; x_wconf 54' lang='grc' dir='ltr'>,νυ</span> <span class='ocrx_word' id='word_1_9' title='bbox 975 1151 1125 1213; x_wconf 54' lang='lat' dir='ltr'>fibram</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 756 1239 1022 1298; baseline 0.004 -14"><span class='ocrx_word' id='word_1_10' title='bbox 756 1241 847 1292; x_wconf 49' lang='lat' dir='ltr'>juna</span> <span class='ocrx_word' id='word_1_11' title='bbox 878 1239 902 1298; x_wconf 61' lang='grc' dir='ltr'>ἶ,</span> <span class='ocrx_word' id='word_1_12' title='bbox 940 1239 1022 1290; x_wconf 63' lang='lat'>121&#39;3</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 810 1326 949 1380; baseline 0.029 -6"><span class='ocrx_word' id='word_1_13' title='bbox 810 1331 891 1380; x_wconf 64' lang='lat' dir='ltr'><strong>·„;1·t</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 913 1326 949 1378; x_wconf 61' lang='lat' dir='ltr'>:f</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 644 1413 1134 1478; baseline 0.008 -11"><span class='ocrx_word' id='word_1_15' title='bbox 644 1414 712 1467; x_wconf 54' lang='grc' dir='ltr'>ΤΕ·</span> <span class='ocrx_word' id='word_1_16' title='bbox 736 1417 745 1468; x_wconf 81' lang='grc' dir='ltr'>ἶ</span> <span class='ocrx_word' id='word_1_17' title='bbox 767 1442 784 1466; x_wconf 66' lang='grc' dir='ltr'><strong><em>η</em></strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 911 1416 954 1468; x_wconf 63' lang='lat' dir='ltr'>oi}</span> <span class='ocrx_word' id='word_1_19' title='bbox 976 1413 1134 1478; x_wconf 63' lang='lat' dir='ltr'>Outting.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1994 5546">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1994 5546">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1994 5546; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1994 5546; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
